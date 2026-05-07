@@ -157,14 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="sartoopjj--vpn-over-github"></div>
+<div id="nullroute1970--stormdns"></div>
 
-### sartoopjj--vpn-over-github
+### nullroute1970--StormDNS
 
-🔗 [source](https://github.com/sartoopjj/vpn-over-github) – [<code><small>v0.2.1</small></code>](https://github.com/sartoopjj/vpn-over-github/releases/tag/v0.2.1)
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.07.194551-effbcfe</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.07.194551-effbcfe)
 
 | File | Size | Download |
 |------|------|----------|
-| `gh-tunnel-client_windows_amd64.exe` | 10.4 MB | [⬇️ Download](https://raw.githubusercontent.com/h27h27/LatestReleaseMirror/main/releases/sartoopjj/vpn-over-github/gh-tunnel-client_windows_amd64.exe) |
-| `gh-tunnel-server_windows_amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/h27h27/LatestReleaseMirror/main/releases/sartoopjj/vpn-over-github/gh-tunnel-server_windows_amd64.exe) |
+| `StormDNS_Client_Windows_AMD64.zip` | 6.1 MB | [⬇️ Download](https://raw.githubusercontent.com/h27h27/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
 <!-- RELEASES_END -->
